@@ -11,7 +11,7 @@ Description:
   -Using exploratory data anaylsis, Data cleaning and advanced classification techniques to create a light gbm classifier model to 
    predict whether an individual will survive on the titanic or not. This model acieved an accuracy of 82% and f1 score of .769
 
-3. Model Parameter experimenation on imbalanced and balanaced data:
+3. Model Parameter experimentation on imbalanced and balanaced data:
    The Project is an analysis of Neural Network, KNN, and Support Vector Machines algorithms on
      2 classification problems one using an imbalanced target class dataset and the 
      other using a balanced target class dataset. The goal is of the project is to explore different
