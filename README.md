@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Projects
 This is my data science project portfolio and below I have listed the projects in this portfolio along with a description of each project
 
 1. Loan Default Prediction using Random Forest Classification 
